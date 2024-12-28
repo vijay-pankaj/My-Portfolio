@@ -33,7 +33,7 @@ function handleResize() {
 window.addEventListener('resize', handleResize);
 // Typed.js Initialization
 const typed = new Typed('.double-text', {
-    strings: ['Frontend Developer', 'Web Developer'],
+    strings: ['MERN-Stack-Developer', 'Web Developer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
